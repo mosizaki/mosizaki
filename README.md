@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mosizaki
-- 👀 I’m interested in web development and games and anime 
+- 👀 I’m interested in web design and development and games and anime 
 - 🌱 I’m currently learning React and Django
 - 💞️ I’m looking to collaborate on React development
 - 📫 How to reach me email: ma.webdd@gmail.com and also telegram and whatsapp: +989910608131
